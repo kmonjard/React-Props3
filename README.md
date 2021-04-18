@@ -1,2 +1,2 @@
-# React-Props3
+# React-Props
 Created with CodeSandbox
